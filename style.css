@@ -69,14 +69,14 @@ section.imagem {
 }
 section#img01{
  background-image: url(imagens/background001.jpg);
- background-position: center, right;
+ background-position: right, center;
  background-size: cover;
 }
 
 section#img02{
     background-image: url(imagens/background002.jpg);
-    background-position: center, right;
- background-size: cover;
+    background-position: right, center;
+    background-size: cover;
 }
 
 section.imagem > p {
